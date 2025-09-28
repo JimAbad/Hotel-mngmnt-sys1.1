@@ -1,0 +1,2 @@
+# Hotel Management System Dependencies
+# Basic requirements for a Python CLI application
